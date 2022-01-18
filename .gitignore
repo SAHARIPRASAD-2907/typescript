@@ -1,5 +1,5 @@
 node_modules
-sort/yarn.lock
+yarn.lock
 dist
 .cache
 .idea
